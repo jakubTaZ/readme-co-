@@ -20,4 +20,3 @@ if __name__ == "__main__":
     shift = int(input("Podaj przesunięcie: "))
     encrypted = caesar_cipher(text, shift)
     print("Zaszyfrowany tekst:", encrypted)
-    s
